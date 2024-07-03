@@ -269,10 +269,9 @@ section {
   position: absolute;
   bottom: 0;
   right: 0;
-  left: 60%;
+  left:68%;
   width: 30%;
   pointer-events: none;
-  margin-left: 100px;
 }
 
 span {
@@ -293,10 +292,6 @@ span {
 .heading {
   font-size: 4.5rem;
   text-align: center;
-  
-}
-span{
-  color: var(--main-color);
 }
 
 .about-content h2 {
