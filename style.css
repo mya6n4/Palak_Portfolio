@@ -269,9 +269,10 @@ section {
   position: absolute;
   bottom: 0;
   right: 0;
-  left: 72%;
+  left: 60%;
   width: 30%;
   pointer-events: none;
+  margin-left: 200px;
 }
 
 span {
